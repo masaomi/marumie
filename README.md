@@ -1,3 +1,8 @@
+# 注意
+
+* これはfork repositoryです。
+* Original repository: https://github.com/team-mirai-volunteer/marumie
+
 # みらいまる見え政治資金
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
